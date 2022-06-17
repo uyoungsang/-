@@ -2,7 +2,7 @@
  <div> 
  
   <h3> Hi there 🤚 </h3>
-  <li> I am Jungmyung Kim from South Korea and I am interested in Data Science.</li>
+  <li> I am uyoungsang from South Korea and I am interested in Data Science.</li>
   <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
   <li>  I've done Semi-project about 'Credit Card Customer Churn Model' with R. </li>
   <li>  And now I am on another project about Discovering the Quantitative Indicators of Red Lettuce Growth using opencv. </li>
