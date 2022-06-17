@@ -10,7 +10,7 @@
  
   
  <!—
-**jungmyung-kr/jungmyung-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uyoungsang/uyoungsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
    <br>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyoungsang&layout=compact&theme=graywhite&show_icons=true&border_color=ffffff)](https://github.com/jungmyung-kr/)
-   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyoungsang&show_icons=true&theme=graywhite&border_color=ffffff&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
+   [![uyoungsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyoungsang&show_icons=true&theme=graywhite&border_color=ffffff&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
    <br>
   </div> 
 </div>
